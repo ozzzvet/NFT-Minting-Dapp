@@ -1,0 +1,15 @@
+{
+    "name": "nft-minting-dapp",
+    "version": "1.0.0",
+    "description": "A simple DApp for minting NFTs by uploading images",
+    "main": "app.js",
+    "scripts": {
+      "start": "http-server"
+    },
+    "author": "Scroll Bootcamp Cohort2",
+    "license": "MIT",
+    "dependencies": {
+      "http-server": "^0.12.3"
+    }
+  }
+  
